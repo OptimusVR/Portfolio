@@ -71,7 +71,7 @@ Same as with the traditional ones, they are put in a rough chronological order.
 
 <img width="2048" height="2732" alt="amethyst inspired original character" src="https://github.com/user-attachments/assets/70593569-20b2-4758-84d1-46e419573717" />
 
-### These last drawings are my most pieces, which, in my opinion, represent my current level.
+### These last drawings are my most recent pieces, which, in my opinion, represent my current level.
 
 <img width="2480" height="3508" alt="the ring nursefather" src="https://github.com/user-attachments/assets/5e181927-4f6b-4d0b-b191-1d4a32be0fba" />
 
