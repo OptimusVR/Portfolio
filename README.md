@@ -87,7 +87,7 @@ Same as with the traditional ones, they are put in a rough chronological order.
 
 <img width="3508" height="2480" alt="splatoon-lifering" src="https://github.com/user-attachments/assets/95103fb9-e8cd-4825-b0c3-224ba6652e42" />
 
-NOTE: The drawing that you see on the sides are the ones I used for reference, they are not my drawings.
+NOTE: The drawings that you see on the sides are the ones I used for reference, they are not my drawings.
 <img width="3508" height="2480" alt="ado(natori)" src="https://github.com/user-attachments/assets/61d9ab2e-7840-4a7c-b3fa-83b8a911fb79" />
 
 <img width="3508" height="2480" alt="sky elevator splatoon" src="https://github.com/user-attachments/assets/d2afa530-cc31-4242-93db-0288b1bc91f9" />
