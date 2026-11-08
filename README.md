@@ -8,9 +8,9 @@ These are put in a roughly approximated chronological order to show my evolution
 
 <img width="1228" height="1632" alt="16010" src="https://github.com/user-attachments/assets/8565d1ea-2160-4b0c-9f49-058c777dbca3" />
 
-<img width="1036" height="1592" alt="16011" src="https://github.com/user-attachments/assets/bcd63c1e-f503-4461-a675-46e5a1d24cec" style="transform: rotate(90deg);"/>
+<img width="1036" height="1592" alt="16011" src="https://github.com/user-attachments/assets/bcd63c1e-f503-4461-a675-46e5a1d24cec" style="transform: rotate(90deg);" />
 
-<img width="1080" height="1636" alt="16012" src="https://github.com/user-attachments/assets/042d25c1-368a-488e-9198-867e52281d24" style="transform: rotate(-90deg);"/>
+<img width="1080" height="1636" alt="16012" src="https://github.com/user-attachments/assets/042d25c1-368a-488e-9198-867e52281d24" style="transform: rotate(-90deg);" />
 
 <img width="1184" height="1764" alt="16013" src="https://github.com/user-attachments/assets/b7a548b4-109c-4238-bd19-08df6f477080" />
 
